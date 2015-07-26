@@ -1,0 +1,896 @@
+{
+  "afinetheorem.wordpress.com": {
+    "article_proportion": 0.8,
+    "rss_url": "http://afinetheorem.wordpress.com/feed/"
+  },
+  "america.aljazeera.com": {
+    "article_proportion": 0.7,
+    "rss_url": "http://america.aljazeera.com/content/ajam/articles.rss"
+  },
+  "andrewgelman.com": {
+    "article_proportion": 0.4,
+    "rss_url": "http://andrewgelman.com/feed/"
+  },
+  "blog.priceonomics.com": {
+    "article_proportion": 0.5,
+    "rss_url": "http://blog.priceonomics.com/latest.rss"
+  },
+  "brokelyn.com": {
+    "article_proportion": 0.6,
+    "rss_url": "http://brokelyn.com/feed/"
+  },
+  "cheaptalk.org": {
+    "article_proportion": 0.6,
+    "rss_url": "http://cheaptalk.org/feed/"
+  },
+  "codeandculture.wordpress.com": {
+    "article_proportion": 0.8,
+    "rss_url": "https://codeandculture.wordpress.com/feed/"
+  },
+  "dynamicecology.wordpress.com": {
+    "article_proportion": 0.6,
+    "rss_url": "https://dynamicecology.wordpress.com/feed/"
+  },
+  "fivethirtyeight.com": {
+    "article_proportion": 0.4,
+    "rss_url": "http://fivethirtyeight.com/all/feed"
+  },
+  "forgotten-ny.com": {
+    "article_proportion": 0.6,
+    "rss_url": "http://forgotten-ny.com/feed/"
+  },
+  "grantland.com": {
+    "article_proportion": 0.5,
+    "rss_url": "http://feeds.feedburner.com/Grantland"
+  },
+  "in-good-taste.blogspot.com": {
+    "article_proportion": 0.7,
+    "broken": true,
+    "rss_url": "http://in-good-taste.blogspot.com/feeds/posts/default"
+  },
+  "iquantny.tumblr.com": {
+    "article_proportion": 0.8,
+    "rss_url": "http://iquantny.tumblr.com/rss"
+  },
+  "ireport.cnn.com": {
+    "article_proportion": 0.5,
+    "broken": true,
+    "rss_url": "http://rss.ireport.com/feeds/oncnn.rss"
+  },
+  "jezebel.com": {
+    "article_proportion": 0.4,
+    "rss_url": "http://feeds.gawker.com/jezebel/full"
+  },
+  "junkcharts.typepad.com/junk_charts": {
+    "article_proportion": 0.8,
+    "rss_url": "http://junkcharts.typepad.com/junk_charts/atom.xml"
+  },
+  "lobste.rs": {
+    "article_proportion": 0.4,
+    "rss_url": "https://lobste.rs/rss"
+  },
+  "lobste.rs/t/android": {
+    "article_proportion": 0.4,
+    "rss_url": "https://lobste.rs/t/android.rss"
+  },
+  "lobste.rs/t/api": {
+    "article_proportion": 0.4,
+    "rss_url": "https://lobste.rs/t/api.rss"
+  },
+  "lobste.rs/t/art": {
+    "article_proportion": 0.4,
+    "rss_url": "https://lobste.rs/t/art.rss"
+  },
+  "lobste.rs/t/assembly": {
+    "article_proportion": 0.4,
+    "rss_url": "https://lobste.rs/t/assembly.rss"
+  },
+  "lobste.rs/t/audio": {
+    "article_proportion": 0.4,
+    "rss_url": "https://lobste.rs/t/audio.rss"
+  },
+  "lobste.rs/t/bitcoin": {
+    "article_proportion": 0.4,
+    "rss_url": "https://lobste.rs/t/bitcoin.rss"
+  },
+  "lobste.rs/t/book": {
+    "article_proportion": 0.4,
+    "rss_url": "https://lobste.rs/t/book.rss"
+  },
+  "lobste.rs/t/browsers": {
+    "article_proportion": 0.4,
+    "rss_url": "https://lobste.rs/t/browsers.rss"
+  },
+  "lobste.rs/t/c": {
+    "article_proportion": 0.4,
+    "rss_url": "https://lobste.rs/t/c.rss"
+  },
+  "lobste.rs/t/cogsci": {
+    "article_proportion": 0.4,
+    "rss_url": "https://lobste.rs/t/cogsci.rss"
+  },
+  "lobste.rs/t/compilers": {
+    "article_proportion": 0.4,
+    "rss_url": "https://lobste.rs/t/compilers.rss"
+  },
+  "lobste.rs/t/compsci": {
+    "article_proportion": 0.4,
+    "rss_url": "https://lobste.rs/t/compsci.rss"
+  },
+  "lobste.rs/t/culture": {
+    "article_proportion": 0.4,
+    "rss_url": "https://lobste.rs/t/culture.rss"
+  },
+  "lobste.rs/t/databases": {
+    "article_proportion": 0.4,
+    "rss_url": "https://lobste.rs/t/databases.rss"
+  },
+  "lobste.rs/t/design": {
+    "article_proportion": 0.4,
+    "rss_url": "https://lobste.rs/t/design.rss"
+  },
+  "lobste.rs/t/devops": {
+    "article_proportion": 0.4,
+    "rss_url": "https://lobste.rs/t/devops.rss"
+  },
+  "lobste.rs/t/distributed": {
+    "article_proportion": 0.4,
+    "rss_url": "https://lobste.rs/t/distributed.rss"
+  },
+  "lobste.rs/t/dotnet": {
+    "article_proportion": 0.4,
+    "rss_url": "https://lobste.rs/t/dotnet.rss"
+  },
+  "lobste.rs/t/elixir": {
+    "article_proportion": 0.4,
+    "rss_url": "https://lobste.rs/t/elixir.rss"
+  },
+  "lobste.rs/t/emacs": {
+    "article_proportion": 0.4,
+    "rss_url": "https://lobste.rs/t/emacs.rss"
+  },
+  "lobste.rs/t/erlang": {
+    "article_proportion": 0.4,
+    "rss_url": "https://lobste.rs/t/erlang.rss"
+  },
+  "lobste.rs/t/finance": {
+    "article_proportion": 0.4,
+    "rss_url": "https://lobste.rs/t/finance.rss"
+  },
+  "lobste.rs/t/freebsd": {
+    "article_proportion": 0.4,
+    "rss_url": "https://lobste.rs/t/freebsd.rss"
+  },
+  "lobste.rs/t/games": {
+    "article_proportion": 0.4,
+    "rss_url": "https://lobste.rs/t/games.rss"
+  },
+  "lobste.rs/t/git": {
+    "article_proportion": 0.4,
+    "rss_url": "https://lobste.rs/t/git.rss"
+  },
+  "lobste.rs/t/go": {
+    "article_proportion": 0.4,
+    "rss_url": "https://lobste.rs/t/go.rss"
+  },
+  "lobste.rs/t/graphics": {
+    "article_proportion": 0.4,
+    "rss_url": "https://lobste.rs/t/graphics.rss"
+  },
+  "lobste.rs/t/hardware": {
+    "article_proportion": 0.4,
+    "rss_url": "https://lobste.rs/t/hardware.rss"
+  },
+  "lobste.rs/t/haskell": {
+    "article_proportion": 0.4,
+    "rss_url": "https://lobste.rs/t/haskell.rss"
+  },
+  "lobste.rs/t/ios": {
+    "article_proportion": 0.4,
+    "rss_url": "https://lobste.rs/t/ios.rss"
+  },
+  "lobste.rs/t/ipv6": {
+    "article_proportion": 0.4,
+    "rss_url": "https://lobste.rs/t/ipv6.rss"
+  },
+  "lobste.rs/t/java": {
+    "article_proportion": 0.4,
+    "rss_url": "https://lobste.rs/t/java.rss"
+  },
+  "lobste.rs/t/javascript": {
+    "article_proportion": 0.4,
+    "rss_url": "https://lobste.rs/t/javascript.rss"
+  },
+  "lobste.rs/t/law": {
+    "article_proportion": 0.4,
+    "rss_url": "https://lobste.rs/t/law.rss"
+  },
+  "lobste.rs/t/linux": {
+    "article_proportion": 0.4,
+    "rss_url": "https://lobste.rs/t/linux.rss"
+  },
+  "lobste.rs/t/lisp": {
+    "article_proportion": 0.4,
+    "rss_url": "https://lobste.rs/t/lisp.rss"
+  },
+  "lobste.rs/t/lua": {
+    "article_proportion": 0.4,
+    "rss_url": "https://lobste.rs/t/lua.rss"
+  },
+  "lobste.rs/t/mac": {
+    "article_proportion": 0.4,
+    "rss_url": "https://lobste.rs/t/mac.rss"
+  },
+  "lobste.rs/t/math": {
+    "article_proportion": 0.4,
+    "rss_url": "https://lobste.rs/t/math.rss"
+  },
+  "lobste.rs/t/ml": {
+    "article_proportion": 0.8,
+    "rss_url": "https://lobste.rs/t/ml.rss"
+  },
+  "lobste.rs/t/mobile": {
+    "article_proportion": 0.4,
+    "rss_url": "https://lobste.rs/t/mobile.rss"
+  },
+  "lobste.rs/t/networking": {
+    "article_proportion": 0.4,
+    "rss_url": "https://lobste.rs/t/networking.rss"
+  },
+  "lobste.rs/t/openbsd": {
+    "article_proportion": 0.4,
+    "rss_url": "https://lobste.rs/t/openbsd.rss"
+  },
+  "lobste.rs/t/perl": {
+    "article_proportion": 0.4,
+    "rss_url": "https://lobste.rs/t/perl.rss"
+  },
+  "lobste.rs/t/philosophy": {
+    "article_proportion": 0.4,
+    "rss_url": "https://lobste.rs/t/philosophy.rss"
+  },
+  "lobste.rs/t/php": {
+    "article_proportion": 0.4,
+    "rss_url": "https://lobste.rs/t/php.rss"
+  },
+  "lobste.rs/t/practices": {
+    "article_proportion": 0.4,
+    "rss_url": "https://lobste.rs/t/practices.rss"
+  },
+  "lobste.rs/t/privacy": {
+    "article_proportion": 0.4,
+    "rss_url": "https://lobste.rs/t/privacy.rss"
+  },
+  "lobste.rs/t/programming": {
+    "article_proportion": 0.4,
+    "rss_url": "https://lobste.rs/t/programming.rss"
+  },
+  "lobste.rs/t/python": {
+    "article_proportion": 0.4,
+    "rss_url": "https://lobste.rs/t/python.rss"
+  },
+  "lobste.rs/t/reversing": {
+    "article_proportion": 0.4,
+    "rss_url": "https://lobste.rs/t/reversing.rss"
+  },
+  "lobste.rs/t/ruby": {
+    "article_proportion": 0.4,
+    "rss_url": "https://lobste.rs/t/ruby.rss"
+  },
+  "lobste.rs/t/rust": {
+    "article_proportion": 0.4,
+    "rss_url": "https://lobste.rs/t/rust.rss"
+  },
+  "lobste.rs/t/satire": {
+    "article_proportion": 0.4,
+    "rss_url": "https://lobste.rs/t/satire.rss"
+  },
+  "lobste.rs/t/scala": {
+    "article_proportion": 0.4,
+    "rss_url": "https://lobste.rs/t/scala.rss"
+  },
+  "lobste.rs/t/scaling": {
+    "article_proportion": 0.4,
+    "rss_url": "https://lobste.rs/t/scaling.rss"
+  },
+  "lobste.rs/t/science": {
+    "article_proportion": 0.4,
+    "rss_url": "https://lobste.rs/t/science.rss"
+  },
+  "lobste.rs/t/security": {
+    "article_proportion": 0.4,
+    "rss_url": "https://lobste.rs/t/security.rss"
+  },
+  "lobste.rs/t/software": {
+    "article_proportion": 0.4,
+    "rss_url": "https://lobste.rs/t/software.rss"
+  },
+  "lobste.rs/t/swift": {
+    "article_proportion": 0.4,
+    "rss_url": "https://lobste.rs/t/swift.rss"
+  },
+  "lobste.rs/t/unix": {
+    "article_proportion": 0.4,
+    "rss_url": "https://lobste.rs/t/unix.rss"
+  },
+  "lobste.rs/t/vim": {
+    "article_proportion": 0.4,
+    "rss_url": "https://lobste.rs/t/vim.rss"
+  },
+  "lobste.rs/t/virtualization": {
+    "article_proportion": 0.4,
+    "rss_url": "https://lobste.rs/t/virtualization.rss"
+  },
+  "lobste.rs/t/visualization": {
+    "article_proportion": 0.4,
+    "rss_url": "https://lobste.rs/t/visualization.rss"
+  },
+  "lobste.rs/t/web": {
+    "article_proportion": 0.4,
+    "rss_url": "https://lobste.rs/t/web.rss"
+  },
+  "lobste.rs/t/windows": {
+    "article_proportion": 0.4,
+    "rss_url": "https://lobste.rs/t/windows.rss"
+  },
+  "longform.org": {
+    "article_proportion": 0.9,
+    "broken": true,
+    "rss_url": "http://longform.org/feed.rss"
+  },
+  "marginalrevolution.com/marginalrevolution": {
+    "article_proportion": 0.4,
+    "rss_url": "http://feeds.feedburner.com/marginalrevolution/feed"
+  },
+  "money.cnn.com": {
+    "article_proportion": 0.7,
+    "broken": true,
+    "rss_url": "http://rss.cnn.com/rss/money_latest.rss"
+  },
+  "muftah.org": {
+    "article_proportion": 0.8,
+    "rss_url": "http://muftah.org/feed/"
+  },
+  "nautil.us": {
+    "article_proportion": 0.7,
+    "rss_url": "http://nautil.us/rss/all"
+  },
+  "news.ycombinator.com": {
+    "article_proportion": 0.4,
+    "rss_url": "https://news.ycombinator.com/rss"
+  },
+  "newyork.seriouseats.com": {
+    "article_proportion": 0.4,
+    "rss_url": "http://feeds.feedburner.com/seriouseats/newyork.seriouseats.com/"
+  },
+  "qz.com/re/ideas": {
+    "article_proportion": 0.9,
+    "rss_url": "http://qz.com/re/ideas/feed/"
+  },
+  "qz.com/re/lifestyle": {
+    "article_proportion": 0.7,
+    "rss_url": "http://qz.com/re/lifestyle/feed/"
+  },
+  "qz.com/re/markets": {
+    "article_proportion": 0.9,
+    "rss_url": "http://qz.com/re/markets/feed/"
+  },
+  "qz.com/re/technology": {
+    "article_proportion": 0.9,
+    "rss_url": "http://qz.com/re/technology/feed/"
+  },
+  "smittenkitchen.com/blog": {
+    "article_proportion": 0.8,
+    "rss_url": "http://feeds.feedburner.com/smittenkitchen"
+  },
+  "thewoksoflife.com": {
+    "article_proportion": 0.8,
+    "rss_url": "http://feeds.feedburner.com/TheWoksOfLife"
+  },
+  "timharford.com": {
+    "article_proportion": 0.8,
+    "rss_url": "http://feeds.feedburner.com/TimHarford"
+  },
+  "www.aljazeera.com/news": {
+    "article_proportion": 0.8,
+    "rss_url": "http://www.aljazeera.com/xml/rss/all.xml"
+  },
+  "www.amateurgourmet.com": {
+    "article_proportion": 0.8,
+    "broken": true,
+    "rss_url": "http://feeds.feedburner.com/TheAmateurGourmet"
+  },
+  "www.brainpickings.org": {
+    "article_proportion": 0.6,
+    "rss_url": "http://feeds.feedburner.com/brainpickings/rss"
+  },
+  "www.brookings.edu/blogs/ben-bernanke": {
+    "article_proportion": 0.8,
+    "rss_url": "http://webfeeds.brookings.edu/brookingsrss/topfeeds/benbernanke?format=xml"
+  },
+  "www.citylab.com": {
+    "article_proportion": 0.8,
+    "rss_url": "http://feeds.feedburner.com/TheAtlanticCities"
+  },
+  "www.cnn.com/entertainment": {
+    "article_proportion": 0.5,
+    "broken": true,
+    "rss_url": "http://rss.cnn.com/rss/cnn_showbiz.rss"
+  },
+  "www.cnn.com/health": {
+    "article_proportion": 0.7,
+    "broken": true,
+    "rss_url": "http://rss.cnn.com/rss/cnn_health.rss"
+  },
+  "www.cnn.com/politics": {
+    "article_proportion": 0.7,
+    "broken": true,
+    "rss_url": "http://rss.cnn.com/rss/cnn_allpolitics.rss"
+  },
+  "www.cnn.com/tech": {
+    "article_proportion": 0.7,
+    "broken": true,
+    "rss_url": "http://rss.cnn.com/rss/cnn_tech.rss"
+  },
+  "www.cnn.com/travel": {
+    "article_proportion": 0.7,
+    "broken": true,
+    "rss_url": "http://rss.cnn.com/rss/cnn_travel.rss"
+  },
+  "www.cnn.com/us": {
+    "article_proportion": 0.7,
+    "broken": true,
+    "rss_url": "http://rss.cnn.com/rss/cnn_us.rss"
+  },
+  "www.cnn.com/world": {
+    "article_proportion": 0.7,
+    "broken": true,
+    "rss_url": "http://rss.cnn.com/rss/cnn_world.rss"
+  },
+  "www.colorlines.com": {
+    "article_proportion": 0.8,
+    "broken": true,
+    "rss_url": "http://www.colorlines.com/rss.xml"
+  },
+  "www.huffingtonpost.com/arts": {
+    "article_proportion": 0.7,
+    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/arts/index.xml"
+  },
+  "www.huffingtonpost.com/black-voices": {
+    "article_proportion": 0.7,
+    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/black-voices/index.xml"
+  },
+  "www.huffingtonpost.com/books": {
+    "article_proportion": 0.7,
+    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/books/index.xml"
+  },
+  "www.huffingtonpost.com/business": {
+    "article_proportion": 0.7,
+    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/business/index.xml"
+  },
+  "www.huffingtonpost.com/celebrity": {
+    "article_proportion": 0.7,
+    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/celebrity/index.xml"
+  },
+  "www.huffingtonpost.com/chicago": {
+    "article_proportion": 0.7,
+    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/chicago/index.xml"
+  },
+  "www.huffingtonpost.com/college": {
+    "article_proportion": 0.7,
+    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/college/index.xml"
+  },
+  "www.huffingtonpost.com/crime": {
+    "article_proportion": 0.7,
+    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/crime/index.xml"
+  },
+  "www.huffingtonpost.com/dc": {
+    "article_proportion": 0.7,
+    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/dc/index.xml"
+  },
+  "www.huffingtonpost.com/denver": {
+    "article_proportion": 0.7,
+    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/denver/index.xml"
+  },
+  "www.huffingtonpost.com/detroit": {
+    "article_proportion": 0.7,
+    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/detroit/index.xml"
+  },
+  "www.huffingtonpost.com/education": {
+    "article_proportion": 0.7,
+    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/education/index.xml"
+  },
+  "www.huffingtonpost.com/entertainment": {
+    "article_proportion": 0.7,
+    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/entertainment/index.xml"
+  },
+  "www.huffingtonpost.com/gay-voices": {
+    "article_proportion": 0.7,
+    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/gay-voices/index.xml"
+  },
+  "www.huffingtonpost.com/gps-for-the-soul": {
+    "article_proportion": 0.7,
+    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/gps-for-the-soul/index.xml"
+  },
+  "www.huffingtonpost.com/green": {
+    "article_proportion": 0.7,
+    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/green/index.xml"
+  },
+  "www.huffingtonpost.com/hawaii": {
+    "article_proportion": 0.7,
+    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/hawaii/index.xml"
+  },
+  "www.huffingtonpost.com/health-fitness": {
+    "article_proportion": 0.7,
+    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/health-fitness/index.xml"
+  },
+  "www.huffingtonpost.com/health-news": {
+    "article_proportion": 0.7,
+    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/health-news/index.xml"
+  },
+  "www.huffingtonpost.com/healthy-living": {
+    "article_proportion": 0.7,
+    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/healthy-living/index.xml"
+  },
+  "www.huffingtonpost.com/huffpost-code": {
+    "article_proportion": 0.7,
+    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/huffpost-code/index.xml"
+  },
+  "www.huffingtonpost.com/huffpost-home": {
+    "article_proportion": 0.7,
+    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/huffpost-home/index.xml"
+  },
+  "www.huffingtonpost.com/impact": {
+    "article_proportion": 0.7,
+    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/impact/index.xml"
+  },
+  "www.huffingtonpost.com/latino-voices": {
+    "article_proportion": 0.7,
+    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/latino-voices/index.xml"
+  },
+  "www.huffingtonpost.com/los-angeles": {
+    "article_proportion": 0.7,
+    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/los-angeles/index.xml"
+  },
+  "www.huffingtonpost.com/media": {
+    "article_proportion": 0.7,
+    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/media/index.xml"
+  },
+  "www.huffingtonpost.com/miami": {
+    "article_proportion": 0.7,
+    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/miami/index.xml"
+  },
+  "www.huffingtonpost.com/money": {
+    "article_proportion": 0.7,
+    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/money/index.xml"
+  },
+  "www.huffingtonpost.com/new-york": {
+    "article_proportion": 0.7,
+    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/new-york/index.xml"
+  },
+  "www.huffingtonpost.com/own": {
+    "article_proportion": 0.7,
+    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/own/index.xml"
+  },
+  "www.huffingtonpost.com/politics": {
+    "article_proportion": 0.7,
+    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/politics/index.xml"
+  },
+  "www.huffingtonpost.com/religion": {
+    "article_proportion": 0.7,
+    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/religion/index.xml"
+  },
+  "www.huffingtonpost.com/san-francisco": {
+    "article_proportion": 0.7,
+    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/san-francisco/index.xml"
+  },
+  "www.huffingtonpost.com/science": {
+    "article_proportion": 0.7,
+    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/science/index.xml"
+  },
+  "www.huffingtonpost.com/sports": {
+    "article_proportion": 0.7,
+    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/sports/index.xml"
+  },
+  "www.huffingtonpost.com/style": {
+    "article_proportion": 0.7,
+    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/style/index.xml"
+  },
+  "www.huffingtonpost.com/taste": {
+    "article_proportion": 0.7,
+    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/taste/index.xml"
+  },
+  "www.huffingtonpost.com/technology": {
+    "article_proportion": 0.7,
+    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/technology/index.xml"
+  },
+  "www.huffingtonpost.com/tedweekends": {
+    "article_proportion": 0.7,
+    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/tedweekends/index.xml"
+  },
+  "www.huffingtonpost.com/travel": {
+    "article_proportion": 0.7,
+    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/travel/index.xml"
+  },
+  "www.huffingtonpost.com/tv": {
+    "article_proportion": 0.7,
+    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/tv/index.xml"
+  },
+  "www.huffingtonpost.com/weddings": {
+    "article_proportion": 0.7,
+    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/weddings/index.xml"
+  },
+  "www.huffingtonpost.com/weird-news": {
+    "article_proportion": 0.7,
+    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/weird-news/index.xml"
+  },
+  "www.huffingtonpost.com/women": {
+    "article_proportion": 0.7,
+    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/women/index.xml"
+  },
+  "www.huffingtonpost.com/world": {
+    "article_proportion": 0.7,
+    "rss_url": "http://www.huffingtonpost.com/feeds/verticals/world/index.xml"
+  },
+  "www.johndcook.com/blog": {
+    "article_proportion": 0.6,
+    "rss_url": "http://feeds.feedburner.com/theendeavour"
+  },
+  "www.mcsweeneys.net/tendency": {
+    "article_proportion": 0.9,
+    "rss_url": "http://feeds.feedburner.com/mcsweeneys/"
+  },
+  "www.reddit.com/r/Anthropology": {
+    "article_proportion": 0.5,
+    "rss_url": "https://reddit.com/r/anthropology.xml"
+  },
+  "www.reddit.com/r/CredibleDefense": {
+    "article_proportion": 0.5,
+    "rss_url": "https://reddit.com/r/CredibleDefense.xml"
+  },
+  "www.reddit.com/r/EliteDangerous": {
+    "article_proportion": 0.7,
+    "rss_url": "https://reddit.com/r/EliteDangerous.xml"
+  },
+  "www.reddit.com/r/Foodforthought": {
+    "article_proportion": 0.8,
+    "rss_url": "https://reddit.com/r/Foodforthought.xml"
+  },
+  "www.reddit.com/r/Futurology": {
+    "article_proportion": 0.5,
+    "rss_url": "https://reddit.com/r/Futurology.xml"
+  },
+  "www.reddit.com/r/ProgrammerHumor": {
+    "article_proportion": 0.5,
+    "rss_url": "https://reddit.com/r/ProgrammerHumor.xml"
+  },
+  "www.reddit.com/r/Python": {
+    "article_proportion": 0.7,
+    "rss_url": "https://reddit.com/r/Python.xml"
+  },
+  "www.reddit.com/r/TrueReddit": {
+    "article_proportion": 0.7,
+    "rss_url": "https://reddit.com/r/truereddit.xml"
+  },
+  "www.reddit.com/r/UpliftingNews": {
+    "article_proportion": 0.7,
+    "rss_url": "https://reddit.com/r/UpliftingNews.xml"
+  },
+  "www.reddit.com/r/assettocorsa": {
+    "article_proportion": 0.7,
+    "rss_url": "https://reddit.com/r/assettocorsa.xml"
+  },
+  "www.reddit.com/r/buildapc": {
+    "article_proportion": 0.6,
+    "rss_url": "https://reddit.com/r/buildapc.xml"
+  },
+  "www.reddit.com/r/csharp": {
+    "article_proportion": 0.8,
+    "rss_url": "https://reddit.com/r/csharp.xml"
+  },
+  "www.reddit.com/r/dataisbeautiful": {
+    "article_proportion": 0.5,
+    "rss_url": "https://reddit.com/r/dataisbeautiful.xml"
+  },
+  "www.reddit.com/r/gameofthrones": {
+    "article_proportion": 0.5,
+    "rss_url": "https://reddit.com/r/gameofthrones.xml"
+  },
+  "www.reddit.com/r/hacking": {
+    "article_proportion": 0.3,
+    "rss_url": "https://reddit.com/r/hacking.xml"
+  },
+  "www.reddit.com/r/javascript": {
+    "article_proportion": 0.8,
+    "rss_url": "https://reddit.com/r/javascript.xml"
+  },
+  "www.reddit.com/r/movies": {
+    "article_proportion": 0.3,
+    "rss_url": "https://reddit.com/r/movies/.xml"
+  },
+  "www.reddit.com/r/news": {
+    "article_proportion": 0.7,
+    "rss_url": "https://reddit.com/r/news/.xml"
+  },
+  "www.reddit.com/r/oculus": {
+    "article_proportion": 0.6,
+    "rss_url": "https://reddit.com/r/oculus.xml"
+  },
+  "www.reddit.com/r/philosophy": {
+    "article_proportion": 0.5,
+    "rss_url": "https://reddit.com/r/philosophy.xml"
+  },
+  "www.reddit.com/r/programming": {
+    "article_proportion": 0.7,
+    "rss_url": "https://reddit.com/r/programming.xml"
+  },
+  "www.reddit.com/r/science": {
+    "article_proportion": 0.5,
+    "rss_url": "https://reddit.com/r/science/.xml"
+  },
+  "www.reddit.com/r/simracing": {
+    "article_proportion": 0.6,
+    "rss_url": "https://reddit.com/r/simracing.xml"
+  },
+  "www.reddit.com/r/sports": {
+    "article_proportion": 0.5,
+    "rss_url": "https://reddit.com/r/sports/.xml"
+  },
+  "www.reddit.com/r/starcraft": {
+    "article_proportion": 0.5,
+    "rss_url": "https://reddit.com/r/starcraft.xml"
+  },
+  "www.reddit.com/r/technology": {
+    "article_proportion": 0.7,
+    "rss_url": "https://reddit.com/r/technology/.xml"
+  },
+  "www.reddit.com/r/television": {
+    "article_proportion": 0.4,
+    "rss_url": "https://reddit.com/r/television/.xml"
+  },
+  "www.reddit.com/r/worldnews": {
+    "article_proportion": 0.7,
+    "rss_url": "https://reddit.com/r/worldnews/.xml"
+  },
+  "www.schneier.com/blog": {
+    "article_proportion": 0.7,
+    "rss_url": "http://feeds.feedburner.com/schneier/fulltext"
+  },
+  "www.scientificamerican.com": {
+    "article_proportion": 0.7,
+    "rss_url": "http://rss.sciam.com/ScientificAmerican-News"
+  },
+  "www.scoutingny.com": {
+    "article_proportion": 0.6,
+    "rss_url": "http://feeds.feedburner.com/scoutingny"
+  },
+  "www.seriouseats.com": {
+    "article_proportion": 0.4,
+    "rss_url": "http://feeds.feedburner.com/seriouseats/recipes"
+  },
+  "www.slate.com": {
+    "article_proportion": 0.8,
+    "broken": true,
+    "rss_url": "http://feeds.slate.com/slate"
+  },
+  "www.theatlantic.com": {
+    "article_proportion": 0.8,
+    "rss_url": "http://feeds.feedburner.com/TheAtlantic"
+  },
+  "www.theatlantic.com/business": {
+    "article_proportion": 0.9,
+    "rss_url": "http://feeds.feedburner.com/AtlanticBusinessChannel"
+  },
+  "www.theatlantic.com/education": {
+    "article_proportion": 0.9,
+    "rss_url": "http://feeds.feedburner.com/AtlanticEducationChannel"
+  },
+  "www.theatlantic.com/entertainment": {
+    "article_proportion": 0.7,
+    "rss_url": "http://feeds.feedburner.com/AtlanticCulture"
+  },
+  "www.theatlantic.com/health": {
+    "article_proportion": 0.8,
+    "rss_url": "http://feeds.feedburner.com/AtlanticFood"
+  },
+  "www.theatlantic.com/international": {
+    "article_proportion": 0.9,
+    "rss_url": "http://feeds.feedburner.com/AtlanticInternational"
+  },
+  "www.theatlantic.com/national": {
+    "article_proportion": 0.9,
+    "rss_url": "http://feeds.feedburner.com/AtlanticNational"
+  },
+  "www.theatlantic.com/politics": {
+    "article_proportion": 0.9,
+    "rss_url": "http://feeds.feedburner.com/AtlanticPoliticsChannel"
+  },
+  "www.theatlantic.com/sexes": {
+    "article_proportion": 0.8,
+    "rss_url": "http://feeds.feedburner.com/AtlanticSexesChannel"
+  },
+  "www.theatlantic.com/technology": {
+    "article_proportion": 0.9,
+    "rss_url": "http://feeds.feedburner.com/AtlanticScienceAndTechnology"
+  },
+  "www.theawl.com": {
+    "article_proportion": 0.7,
+    "rss_url": "http://feeds2.feedburner.com/TheAwl"
+  },
+  "www.theguardian.com/business/economics": {
+    "article_proportion": 0.8,
+    "rss_url": "http://www.theguardian.com/business/economics/rss"
+  },
+  "www.theguardian.com/cities": {
+    "article_proportion": 0.8,
+    "rss_url": "http://www.theguardian.com/cities/rss"
+  },
+  "www.theguardian.com/science": {
+    "article_proportion": 0.8,
+    "rss_url": "http://www.theguardian.com/science/rss"
+  },
+  "www.theguardian.com/uk-news": {
+    "article_proportion": 0.8,
+    "rss_url": "http://www.theguardian.com/uk-news/rss"
+  },
+  "www.theguardian.com/us/business": {
+    "article_proportion": 0.8,
+    "rss_url": "http://www.theguardian.com/us/business/rss"
+  },
+  "www.theguardian.com/us/commentisfree": {
+    "article_proportion": 0.8,
+    "rss_url": "http://www.theguardian.com/us/commentisfree/rss"
+  },
+  "www.theguardian.com/us/culture": {
+    "article_proportion": 0.8,
+    "rss_url": "http://www.theguardian.com/us/culture/rss"
+  },
+  "www.theguardian.com/us/environment": {
+    "article_proportion": 0.8,
+    "rss_url": "http://www.theguardian.com/us/environment/rss"
+  },
+  "www.theguardian.com/us/sport": {
+    "article_proportion": 0.8,
+    "rss_url": "http://www.theguardian.com/us/sport/rss"
+  },
+  "www.theguardian.com/us/technology": {
+    "article_proportion": 0.8,
+    "rss_url": "http://www.theguardian.com/us/technology/rss"
+  },
+  "www.theguardian.com/world": {
+    "article_proportion": 0.8,
+    "rss_url": "http://www.theguardian.com/world/rss"
+  },
+  "www.theguardian.com/world/africa": {
+    "article_proportion": 0.8,
+    "rss_url": "http://www.theguardian.com/world/africa/rss"
+  },
+  "www.theguardian.com/world/americas": {
+    "article_proportion": 0.8,
+    "rss_url": "http://www.theguardian.com/world/americas/rss"
+  },
+  "www.theguardian.com/world/asia": {
+    "article_proportion": 0.8,
+    "rss_url": "http://www.theguardian.com/world/asia/rss"
+  },
+  "www.theguardian.com/world/europe-news": {
+    "article_proportion": 0.8,
+    "rss_url": "http://www.theguardian.com/world/europe-news/rss"
+  },
+  "www.theguardian.com/world/middleeast": {
+    "article_proportion": 0.8,
+    "rss_url": "http://www.theguardian.com/world/middleeast/rss"
+  },
+  "www.themillions.com": {
+    "article_proportion": 0.8,
+    "rss_url": "http://feeds.feedburner.com/themillionsblog/fedw"
+  },
+  "www.theskint.com": {
+    "article_proportion": 0.6,
+    "rss_url": "http://feeds.feedburner.com/TheSkint"
+  },
+  "www.vulture.com": {
+    "article_proportion": 0.7,
+    "rss_url": "http://feeds.feedburner.com/nymag/vulture"
+  }
+}

@@ -1,0 +1,297 @@
+{
+  "cities": {
+    "www.citylab.com": {},
+    "www.theguardian.com/cities": {}
+  },
+  "education": {
+    "www.huffingtonpost.com/college": {},
+    "www.huffingtonpost.com/education": {},
+    "www.theatlantic.com/education": {}
+  },
+  "entertainment": {
+    "jezebel.com": {},
+    "www.cnn.com/entertainment": {},
+    "www.huffingtonpost.com/arts": {},
+    "www.huffingtonpost.com/celebrity": {},
+    "www.huffingtonpost.com/crime": {},
+    "www.huffingtonpost.com/entertainment": {},
+    "www.huffingtonpost.com/style": {},
+    "www.huffingtonpost.com/taste": {},
+    "www.huffingtonpost.com/tv": {},
+    "www.huffingtonpost.com/weird-news": {},
+    "www.reddit.com/r/gameofthrones": {},
+    "www.reddit.com/r/movies": {},
+    "www.reddit.com/r/television": {},
+    "www.theatlantic.com/entertainment": {},
+    "www.theguardian.com/us/culture": {},
+    "www.vulture.com": {}
+  },
+  "environment": {
+    "www.huffingtonpost.com/green": {},
+    "www.theguardian.com/us/environment": {}
+  },
+  "food": {
+    "in-good-taste.blogspot.com": {},
+    "smittenkitchen.com/blog": {},
+    "thewoksoflife.com": {},
+    "www.amateurgourmet.com": {},
+    "www.seriouseats.com": {}
+  },
+  "gaming": {
+    "www.reddit.com/r/EliteDangerous": {},
+    "www.reddit.com/r/assettocorsa": {},
+    "www.reddit.com/r/simracing": {},
+    "www.reddit.com/r/starcraft": {}
+  },
+  "gender": {
+    "www.huffingtonpost.com/women": {},
+    "www.theatlantic.com/sexes": {}
+  },
+  "health": {
+    "www.huffingtonpost.com/health-fitness": {},
+    "www.huffingtonpost.com/health-news": {},
+    "www.huffingtonpost.com/healthy-living": {},
+    "www.theatlantic.com/health": {}
+  },
+  "humor": {
+    "www.mcsweeneys.net/tendency": {}
+  },
+  "misc": {
+    "qz.com/re/lifestyle": {},
+    "www.brainpickings.org": {},
+    "www.huffingtonpost.com/black-voices": {},
+    "www.huffingtonpost.com/gay-voices": {},
+    "www.huffingtonpost.com/gps-for-the-soul": {},
+    "www.huffingtonpost.com/huffpost-home": {},
+    "www.huffingtonpost.com/impact": {},
+    "www.huffingtonpost.com/latino-voices": {},
+    "www.huffingtonpost.com/media": {},
+    "www.huffingtonpost.com/own": {},
+    "www.huffingtonpost.com/religion": {},
+    "www.huffingtonpost.com/travel": {},
+    "www.huffingtonpost.com/weddings": {},
+    "www.reddit.com/r/Anthropology": {},
+    "www.reddit.com/r/CredibleDefense": {},
+    "www.reddit.com/r/Foodforthought": {},
+    "www.reddit.com/r/TrueReddit": {},
+    "www.reddit.com/r/UpliftingNews": {},
+    "www.reddit.com/r/philosophy": {},
+    "www.slate.com": {},
+    "www.theawl.com": {}
+  },
+  "opinion": {
+    "ireport.cnn.com": {},
+    "qz.com/re/ideas": {},
+    "www.huffingtonpost.com/tedweekends": {},
+    "www.theguardian.com/us/commentisfree": {}
+  },
+  "regional": {
+    "americas": {
+      "www.theguardian.com/world/americas": {}
+    },
+    "asia": {
+      "www.theguardian.com/world/asia": {}
+    },
+    "emea": {
+      "muftah.org": {},
+      "www.theguardian.com/uk-news": {},
+      "www.theguardian.com/world/africa": {},
+      "www.theguardian.com/world/europe-news": {},
+      "www.theguardian.com/world/middleeast": {}
+    },
+    "international": {
+      "www.aljazeera.com/news": {},
+      "www.cnn.com/world": {},
+      "www.huffingtonpost.com/world": {},
+      "www.reddit.com/r/worldnews": {},
+      "www.theatlantic.com/international": {},
+      "www.theguardian.com/world": {}
+    },
+    "us": {
+      "chicago": {
+        "www.huffingtonpost.com/chicago": {}
+      },
+      "dc": {
+        "www.huffingtonpost.com/dc": {}
+      },
+      "denver": {
+        "www.huffingtonpost.com/denver": {}
+      },
+      "detroit": {
+        "www.huffingtonpost.com/detroit": {}
+      },
+      "hawaii": {
+        "www.huffingtonpost.com/hawaii": {}
+      },
+      "la": {
+        "www.huffingtonpost.com/los-angeles": {}
+      },
+      "miami": {
+        "www.huffingtonpost.com/miami": {}
+      },
+      "national": {
+        "america.aljazeera.com": {},
+        "www.cnn.com/health": {},
+        "www.cnn.com/politics": {},
+        "www.cnn.com/us": {},
+        "www.huffingtonpost.com/politics": {},
+        "www.reddit.com/r/news": {},
+        "www.theatlantic.com/national": {},
+        "www.theatlantic.com/politics": {}
+      },
+      "nyc": {
+        "brokelyn.com": {},
+        "forgotten-ny.com": {},
+        "iquantny.tumblr.com": {},
+        "newyork.seriouseats.com": {},
+        "www.huffingtonpost.com/new-york": {},
+        "www.scoutingny.com": {},
+        "www.theskint.com": {}
+      },
+      "san_francisco": {
+        "www.huffingtonpost.com/san-francisco": {}
+      }
+    }
+  },
+  "sports": {
+    "grantland.com": {},
+    "www.huffingtonpost.com/sports": {},
+    "www.reddit.com/r/sports": {},
+    "www.theguardian.com/us/sport": {}
+  },
+  "stem": {
+    "economics": {
+      "afinetheorem.wordpress.com": {},
+      "blog.priceonomics.com": {},
+      "cheaptalk.org": {},
+      "codeandculture.wordpress.com": {},
+      "lobste.rs/t/finance": {},
+      "money.cnn.com": {},
+      "qz.com/re/markets": {},
+      "timharford.com": {},
+      "www.brookings.edu/blogs/ben-bernanke": {},
+      "www.huffingtonpost.com/business": {},
+      "www.huffingtonpost.com/money": {},
+      "www.theatlantic.com/business": {},
+      "www.theguardian.com/business/economics": {},
+      "www.theguardian.com/us/business": {}
+    },
+    "hardware": {
+      "lobste.rs/t/hardware": {},
+      "www.reddit.com/r/buildapc": {},
+      "www.reddit.com/r/oculus": {}
+    },
+    "misc": {
+      "junkcharts.typepad.com/junk_charts": {},
+      "lobste.rs/t/math": {},
+      "lobste.rs/t/visualization": {},
+      "qz.com/re/technology": {},
+      "www.cnn.com/tech": {},
+      "www.huffingtonpost.com/technology": {},
+      "www.reddit.com/r/Futurology": {},
+      "www.reddit.com/r/dataisbeautiful": {},
+      "www.reddit.com/r/technology": {},
+      "www.theatlantic.com/technology": {},
+      "www.theguardian.com/us/technology": {}
+    },
+    "science": {
+      "dynamicecology.wordpress.com": {},
+      "lobste.rs/t/cogsci": {},
+      "lobste.rs/t/science": {},
+      "nautil.us": {},
+      "www.huffingtonpost.com/science": {},
+      "www.reddit.com/r/science": {},
+      "www.scientificamerican.com": {},
+      "www.theguardian.com/science": {}
+    },
+    "software": {
+      "general": {
+        "lobste.rs": {},
+        "lobste.rs/t/book": {},
+        "lobste.rs/t/culture": {},
+        "lobste.rs/t/design": {},
+        "lobste.rs/t/law": {},
+        "lobste.rs/t/philosophy": {},
+        "lobste.rs/t/privacy": {},
+        "lobste.rs/t/programming": {},
+        "lobste.rs/t/satire": {},
+        "lobste.rs/t/software": {},
+        "news.ycombinator.com": {},
+        "www.huffingtonpost.com/huffpost-code": {},
+        "www.reddit.com/r/ProgrammerHumor": {},
+        "www.reddit.com/r/hacking": {},
+        "www.reddit.com/r/programming": {}
+      },
+      "topics": {
+        "lobste.rs/t/android": {},
+        "lobste.rs/t/api": {},
+        "lobste.rs/t/art": {},
+        "lobste.rs/t/assembly": {},
+        "lobste.rs/t/audio": {},
+        "lobste.rs/t/bitcoin": {},
+        "lobste.rs/t/browsers": {},
+        "lobste.rs/t/c": {},
+        "lobste.rs/t/compilers": {},
+        "lobste.rs/t/compsci": {},
+        "lobste.rs/t/databases": {},
+        "lobste.rs/t/devops": {},
+        "lobste.rs/t/distributed": {},
+        "lobste.rs/t/dotnet": {},
+        "lobste.rs/t/elixir": {},
+        "lobste.rs/t/emacs": {},
+        "lobste.rs/t/erlang": {},
+        "lobste.rs/t/freebsd": {},
+        "lobste.rs/t/games": {},
+        "lobste.rs/t/git": {},
+        "lobste.rs/t/go": {},
+        "lobste.rs/t/graphics": {},
+        "lobste.rs/t/haskell": {},
+        "lobste.rs/t/ios": {},
+        "lobste.rs/t/ipv6": {},
+        "lobste.rs/t/java": {},
+        "lobste.rs/t/javascript": {},
+        "lobste.rs/t/linux": {},
+        "lobste.rs/t/lisp": {},
+        "lobste.rs/t/lua": {},
+        "lobste.rs/t/mac": {},
+        "lobste.rs/t/ml": {},
+        "lobste.rs/t/mobile": {},
+        "lobste.rs/t/networking": {},
+        "lobste.rs/t/openbsd": {},
+        "lobste.rs/t/perl": {},
+        "lobste.rs/t/php": {},
+        "lobste.rs/t/practices": {},
+        "lobste.rs/t/python": {},
+        "lobste.rs/t/reversing": {},
+        "lobste.rs/t/ruby": {},
+        "lobste.rs/t/rust": {},
+        "lobste.rs/t/scala": {},
+        "lobste.rs/t/scaling": {},
+        "lobste.rs/t/security": {},
+        "lobste.rs/t/swift": {},
+        "lobste.rs/t/unix": {},
+        "lobste.rs/t/vim": {},
+        "lobste.rs/t/virtualization": {},
+        "lobste.rs/t/web": {},
+        "lobste.rs/t/windows": {},
+        "www.reddit.com/r/Python": {},
+        "www.reddit.com/r/csharp": {},
+        "www.reddit.com/r/javascript": {},
+        "www.schneier.com/blog": {}
+      }
+    },
+    "statistics": {
+      "andrewgelman.com": {},
+      "fivethirtyeight.com": {},
+      "www.johndcook.com/blog": {}
+    }
+  },
+  "travel": {
+    "www.cnn.com/travel": {}
+  },
+  "writing": {
+    "longform.org": {},
+    "www.huffingtonpost.com/books": {},
+    "www.themillions.com": {}
+  }
+}
